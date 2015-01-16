@@ -3,4 +3,4 @@
 	url = http://github.com/vazexqi/CodingSpectator
 [submodule "UDC"]
 	path = UDC
-	url = http://git.eclipse.org/gitroot/epp/org.eclipse.epp.usagedata.git
+	url = http://git.eclipse.org/c/epp/org.eclipse.epp.usagedata.git/
